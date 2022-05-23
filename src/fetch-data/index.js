@@ -1,0 +1,1 @@
+export {getAllPost, getPostId} from './fetch-data';
